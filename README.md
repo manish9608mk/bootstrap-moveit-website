@@ -2,5 +2,5 @@
 Moving startup website, Demo website (learning how to use bootstrap).
 
 • The website is live at 👇
-https://manishkumar9608github.github.io/bootstrap-moveit-website/
+https://manish9608mk.github.io/bootstrap-moveit-website/
 
